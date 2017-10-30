@@ -16,8 +16,8 @@ On profite des trajets pour faire débriefer sur ce qu'on vient de faire (ou pas
 
 ### C'est quand et où ?
 
-La marche commencera **le mercredi 8 novembre 2017 à 9h** et se termine vers 18h30.
-Rendez-vous est donné à l'Extra Shot café (44 rue de l'Aiguillerie).
+La marche commencera **le mercredi 8 novembre 2017 à 9h** et se termine vers 18h30.  
+RDV à l'Extra Shot café (44 rue de l'Aiguillerie, 34000 Montpellier).
 
 ### C'est pour qui ?
 
@@ -31,20 +31,19 @@ Rendez-vous est donné à l'Extra Shot café (44 rue de l'Aiguillerie).
 
 ### Je me sens pas au niveau…
 
-T’inquiète pas, nous non plus ;)
+T’inquiète pas, nous non plus ;)  
 Tout le monde est invité à prendre une posture d'apprenant (les organisatrices y compris), il n'y a pas d'experts mais des gens qui ont envie de découvrir et d'apprendre ensemble.
 
 ### C'est qui qui organise ?
 
 Aurélie et Julia. On a suivi les 3 modules d'introduction à la CNV d'Isabelle Desplat début 2017.
-On a tellement kiffé qu'on ont co-créé un groupe de pratique auto-géré avec d'autres Girafes : ![CNV Poils Aux Pieds](http://www.multibao.org/#cnvpoilsauxpieds/documentation)
-Et comme on continue de kiffer, on s'est dit que ce serait chouette de tester d'autres façon de pratiquer. 
+On a tellement kiffé qu'on ont co-créé un groupe de pratique auto-géré avec d'autres Girafes.
+Et comme on continue de kiffer, on s'est dit que ce serait chouette de tester d'autres façon de pratiquer.
 Et voilà.
 
 ### Mais c'est pas une formation ?
 
-Ben non. Enfin, ça dépend de toi. Il n'y aura pas de "*formateur certifié CNV*" venant dispenser la bonne parole mais des gens explorant le sujet avec toi. On essaye plus de créer un contexte pour apprendre des choses ensemble.  
-Pour le reste on fait confiance, chacun à un truc à apporter et ce sera parfait comme ça.
+Ben non. Enfin, ça dépend de toi. Il n'y aura pas de "*formateur certifié CNV*" venant dispenser la bonne parole mais des gens explorant le sujet avec toi. On essaye plus de créer un contexte pour apprendre des choses ensemble. On fait confiance, chacun à un truc à apporter et ce sera parfait comme ça.
 
 ### On sera combien ?
 
@@ -52,7 +51,7 @@ Au moins 4, maximum 10, probablement autour de 7.
 
 ### Il faut que je prévois des trucs ?
 
-Ramènes ta bonne humeur, de l’eau, des noisettes et de quoi t’habiller confortablement pour marcher. Tu peux aussi amener des trucs (jeux, cartes...) qui pourraient servir de support à la pratique/compréhension de a CNV si tu as des idées.
+Ramènes ta bonne humeur, de l’eau, des noisettes et de quoi t’habiller confortablement pour marcher. Tu peux aussi amener des trucs (jeux, cartes...) qui pourraient servir de support à la pratique/compréhension de la CNV si tu as des idées.
 
 ### On marche beaucoup ?
 
@@ -64,7 +63,7 @@ Si ça te semble beaucoup mais que tu as envie de faire partie de l'aventure, pa
 
 ### Je m'inscris où ?
 
-Par ![ici](https://www.eventbrite.fr/e/billets-viens-tater-la-cnv-39412062540)
+Par [ici](https://www.eventbrite.fr/e/billets-viens-tater-la-cnv-39412062540)
 Mais si tu préfères, tu peux aussi envoyer un mail à [Ju](mailto:julia.barbelane@gmail.com).
 
 ### Ça coûte combien cette petite escapade ?
@@ -73,7 +72,7 @@ Mais si tu préfères, tu peux aussi envoyer un mail à [Ju](mailto:julia.barbel
 
 ### Vous faites quoi des sous ?
 
-On paye toutes les collations (cafés, thé, repas du midi, goûter...) et ce qui reste a pour vocation de permettre à quelqu'un.e qui n'aurait pas les moyens de participer quand même. Les organisatrice ne sont pas rémunérées (mais leur cafés sont offerts :-))
+On paye toutes les collations (cafés, thé, repas du midi, goûter...) de la journée. Ce qui reste sera utilisé pour permettre à quelqu'un.e qui n'aurait pas les moyens, de participer quand même. Les organisatrices ne sont pas rémunérées (mais leur cafés sont offerts :-))
 
 ### Et si c’est trop cher pour moi ?
 
@@ -85,4 +84,4 @@ Rien n'est décidé pour l'instant. Si tu manges sans gluten, que tu es végéta
 
 #### Et si j'ai une question ?
 
-Tu peux contacter [Julia](mailto:julia.barbelane@gmail.com)
+Tu peux contacter [Julia](mailto:julia.barbelane@gmail.com). Elle se réjouis d'avance à te répondre !
