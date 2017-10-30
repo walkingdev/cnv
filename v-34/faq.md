@@ -1,24 +1,24 @@
 ---
-title: Le mystère de la chambre noire - V34
-description: Darktable - V34
+title: CNV poils aux pieds
+description: découvrir/apprendre/pratiquer la Communication NonViolente
 image_url: https://github.com/walkingdev/darktable/blob/master/media/banner-darktable.png?raw=true
 ---
 
-# Communication Non Violente 
+# Vient tâter la CNV avec les Girafes de la Bande "CNV Poils Aux Pieds"
 
 ## FAQ
 
 ### On va faire quoi ?
 
-En explorant des lieux insolites dans Montpellier, on va découvrir, apprendre, pratiquer la Communication Non Violente. 
-On va co-créer le contenu de la journée ensemble le matin, puis se ballader de lieu en lieu. L'idée : un lieu = un atelier. 
+En explorant des lieux insolites dans Montpellier, on va découvrir, apprendre, pratiquer la Communication NonViolente.   
+On va co-créer le contenu de la journée ensemble le matin, puis se ballader de lieu en lieu.  
+L'idée : un lieu = un atelier.  
 On profite du trajet pour faire des débriefer l'atelier qu'on vient de faire (ou pas.).
 
 ### C'est quand et où ?
 
-La marche commencera le mercredi 8 novembre 2017 à 9h, et ça se termine vers 18h30.
+La marche commencera *¨*le mercredi 8 novembre 2017 à 9h** et se termine vers 18h30.
 Rendez-vous est donné au café Bun, à deux pas de la comédie.
-
 
 ### C'est pour qui ?
 
@@ -28,18 +28,24 @@ Rendez-vous est donné au café Bun, à deux pas de la comédie.
 - Toi qui la pratique depuis longtemps et qui aspire à partager quelques clés
 - Toi qui comprends pas toujours ces émotions qui s'agitent à l'intérieur de toi 
 - Toi qui adorerait ne plus crier sur tes ami.e.s, tes enfants, ton chien... 
-- Ou encire toi qui a juste envie d'apprendre des trucs 
+- Ou encore toi qui a juste envie d'apprendre des trucs 
 
 ### Je me sens pas au niveau…
 
 T’inquiète pas, nous non plus ;)
-Tout le monde est invité à prendre une posture d'apprenant (les organisatrice y compris), il n'y a pas d'experts mais des gens qui ont envie de découvrir et d'apprendre ensemble.
+Tout le monde est invité à prendre une posture d'apprenant (les organisatrices y compris), il n'y a pas d'experts mais des gens qui ont envie de découvrir et d'apprendre ensemble.
 
+### C'est qui qui organise ?
+
+Aurélie et Julia. On a suivi les 3 modules d'introduction à la CNV d'Isabelle Desplat début 2017.
+On a tellement kiffé qu'on ont co-créé un groupe de pratique auto-géré avec d'autres Girafes : ![CNV Poils Aux Pieds](http://www.multibao.org/#cnvpoilsauxpieds/documentation)
+Et comme on continue de kiffer, on s'est dit que ce serait chouette de tester d'autres façon de pratiquer. 
+Et voilà.
 
 ### Mais c'est pas une formation ?
 
-Ben non. Enfin, ça dépend de toi. Il n'y aura pas de prof venant dispenser la bonne parole, juste des gens explorant le sujet avec toi.
-On essaye plus de créer un contexte pour apprendre des choses et obtenir de l'aide, des lumières, du soutien quand y'en a besoin.
+Ben non. Enfin, ça dépend de toi. Il n'y aura pas de "*formateur certifié CNV*" venant dispenser la bonne parole mais des gens explorant le sujet avec toi. On essaye plus de créer un contexte pour apprendre des choses ensemble.  
+Pour le reste on fait confiance, chacun à un truc à apporter et ce sera parfait comme ça.
 
 ### On sera combien ?
 
@@ -47,7 +53,7 @@ Au moins 4, maximum 10, probablement autour de 7.
 
 ### Il faut que je prévois des trucs ?
 
-En gros, il faut que tu prennes ta bonne humeur, de l’eau, des noisettes et de quoi t’habiller confortablement pour marcher. Tu peux aussi amener des trucs (jeux, cartes...) qui pourraient servir de support à la pratique/compréhension par exemple.
+Ramènes ta bonne humeur, de l’eau, des noisettes et de quoi t’habiller confortablement pour marcher. Tu peux aussi amener des trucs (jeux, cartes...) qui pourraient servir de support à la pratique/compréhension de a CNV si tu as des idées.
 
 Pour le détail on a fait une page spécialement pour ça : [Prépare ton escapade](http://walkingdev.fr/#walkingdev/darktable/blob/master/v-34/prepare-ton-escapade.md)
 
@@ -87,5 +93,4 @@ C'est pas très explicite, mais en cherchant on trouve quand même facilement le
 
 #### Et si j'ai une question ?
 
-Tu peux contacter :
-   - [Julia](mailto:julia.barbelane@gmail.com)
+Tu peux contacter [Julia](mailto:julia.barbelane@gmail.com)
