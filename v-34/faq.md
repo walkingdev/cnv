@@ -21,7 +21,7 @@ RDV à l'Extra Shot café (44 rue de l'Aiguillerie, 34000 Montpellier).
 
 ### C'est pour qui ?
 
-Y'a pas de pré-requis, que tu aies déjà pratiqué ou que ce soit la première que tu en entendes parler, tu es le.a bienvenu.e si :
+Y'a pas de pré-requis, que tu aies déjà pratiqué ou que ce soit la première fois que tu en entendes parler, tu es le.a bienvenu.e si :
 - tu as envie de déconditionner tes oreilles et voir les sens cachés dans nos conversations
 - tu aspires à prendre plus soin de tes relations
 - tu as envie de pratiquer (la CNV c'est comme l'anglais si on le parle pas, on le perd :-))
