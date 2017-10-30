@@ -63,7 +63,7 @@ Si ça te semble beaucoup mais que tu as envie de faire partie de l'aventure, pa
 
 ### Je m'inscris où ?
 
-Par [ici](https://www.eventbrite.fr/e/billets-viens-tater-la-cnv-39412062540)
+Par [ici](https://www.eventbrite.fr/e/billets-viens-tater-la-cnv-39412062540).
 Mais si tu préfères, tu peux aussi envoyer un mail à [Ju](mailto:julia.barbelane@gmail.com).
 
 ### Ça coûte combien cette petite escapade ?
