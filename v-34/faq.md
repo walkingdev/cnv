@@ -11,15 +11,13 @@ image_url: https://github.com/walkingdev/darktable/blob/master/media/banner-dark
 
 ### On va faire quoi ?
 
-En explorant des lieux insolites dans Montpellier, on va découvrir, apprendre, pratiquer la Communication NonViolente.   
-On va co-créer le contenu de la journée ensemble le matin, puis se ballader de lieu en lieu.  
-L'idée : un lieu = un atelier.  
-On profite du trajet pour faire des débriefer l'atelier qu'on vient de faire (ou pas.).
+En explorant des lieux insolites dans Montpellier, on va découvrir/apprendre/pratiquer la CNV. Pour ça on va co-créer le contenu de la journée ensemble le matin, puis se ballader de lieux en lieux.  Dans chaque nouveau lieu on fera un nouvel atelier.  
+On profite des trajets pour faire débriefer sur ce qu'on vient de faire (ou pas).
 
 ### C'est quand et où ?
 
-La marche commencera *¨*le mercredi 8 novembre 2017 à 9h** et se termine vers 18h30.
-Rendez-vous est donné au café Bun, à deux pas de la comédie.
+La marche commencera **le mercredi 8 novembre 2017 à 9h** et se termine vers 18h30.
+Rendez-vous est donné à l'Extra Shot café (44 rue de l'Aiguillerie).
 
 ### C'est pour qui ?
 
