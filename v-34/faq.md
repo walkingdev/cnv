@@ -4,7 +4,8 @@ description: découvrir/apprendre/pratiquer la Communication NonViolente
 image_url: https://github.com/walkingdev/darktable/blob/master/media/banner-darktable.png?raw=true
 ---
 
-# Vient tâter la CNV avec les Girafes de la Bande "CNV Poils Aux Pieds"
+# Viens tâter la CNV* 
+*avec les Girafes de la Bande "CNV Poils Aux Pieds"
 
 ## FAQ
 
