@@ -64,9 +64,8 @@ Si ça te semble beaucoup mais que tu as envie de faire partie de l'aventure, pa
 
 ### Je m'inscris où ?
 
-Tu peux t'inscrire en éditant cette page sur Github : [inscriptions.md](https://github.com/walkingdev/darktable/edit/master/v-34/inscriptions.md). Ton inscription n'est confirmée qu'une fois que ton nom apparait effectivement sur la page d'inscriptions.
-
-Tu peux aussi nous envoyer un petit mail :[julia.barbelane@gmail.com](mailto:julia.barbelane@gmail.com)
+Par ![ici](https://www.eventbrite.fr/e/billets-viens-tater-la-cnv-39412062540)
+Mais si tu préfères, tu peux aussi envoyer un mail à [Ju](mailto:julia.barbelane@gmail.com).
 
 ### Ça coûte combien cette petite escapade ?
 
@@ -83,11 +82,6 @@ Ne te prive pas de cette super journée pour des problèmes matériels, contacte
 ### On mangera quoi ?
 
 Rien n'est décidé pour l'instant. Si tu manges sans gluten, que tu es végétalien ou avec des restrictions alimentaires, préviens nous.
-
-### Je veux m'inscrire ! 
-
-C'est par ![ici](https://www.eventbrite.fr/e/billets-viens-tater-la-cnv-39412062540)
-Mais si tu préfères, tu peux aussi envoyer un mail à [Ju](mailto:julia.barbelane@gmail.com)
 
 #### Et si j'ai une question ?
 
