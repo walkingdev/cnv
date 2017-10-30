@@ -84,9 +84,10 @@ Ne te prive pas de cette super journée pour des problèmes matériels, contacte
 
 Rien n'est décidé pour l'instant. Si tu manges sans gluten, que tu es végétalien ou avec des restrictions alimentaires, préviens nous.
 
-### Pourquoi V-34 ?
+### Je veux m'inscrire ! 
 
-C'est pas très explicite, mais en cherchant on trouve quand même facilement le pourquoi du comment.
+C'est par ![ici](https://www.eventbrite.fr/e/billets-viens-tater-la-cnv-39412062540)
+Mais si tu préfères, tu peux aussi envoyer un mail à [Ju](mailto:julia.barbelane@gmail.com)
 
 #### Et si j'ai une question ?
 
