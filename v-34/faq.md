@@ -12,7 +12,7 @@ image_url: https://github.com/walkingdev/darktable/blob/master/media/banner-dark
 ### On va faire quoi ?
 
 En explorant des lieux insolites dans Montpellier, on va découvrir/apprendre/pratiquer la CNV. Pour ça on va co-créer le contenu de la journée ensemble le matin, puis se ballader de lieux en lieux.  Dans chaque nouveau lieu on fera un nouvel atelier.  
-On profite des trajets pour faire débriefer sur ce qu'on vient de faire (ou pas).
+On profite des trajets pour débriefer sur ce qu'on vient de faire (ou pas).
 
 ### C'est quand et où ?
 
@@ -21,13 +21,15 @@ RDV à l'Extra Shot café (44 rue de l'Aiguillerie, 34000 Montpellier).
 
 ### C'est pour qui ?
 
-- Toi qui aspire à prendre plus soin de tes relations
-- Toi qui a envie de pratiquer (la CNV c'est comme l'anglais si on le parle pas, on le perd :-))
-- Toi qui est perplexe et/ou curieu.x.se
-- Toi qui la pratique depuis longtemps et qui aspire à partager quelques clés
-- Toi qui comprends pas toujours ces émotions qui s'agitent à l'intérieur de toi 
-- Toi qui adorerait ne plus crier sur tes ami.e.s, tes enfants, ton chien... 
-- Ou encore toi qui a juste envie d'apprendre des trucs 
+Y'a pas de pré-requis, que tu aies déjà pratiqué ou que ce soit la première que tu en entendes parler, tu es le.a bienvenu.e si :
+- tu as envie de déconditionner tes oreilles et voir les sens cachés dans nos conversations
+- tu aspires à prendre plus soin de tes relations
+- tu as envie de pratiquer (la CNV c'est comme l'anglais si on le parle pas, on le perd :-))
+- tu es perplexe et/ou curieu.x.se
+- tu la pratiques depuis longtemps et aspires à partager quelques clés
+- tu n'comprends pas toujours ces émotions qui s'agitent à l'intérieur de toi 
+- tu adorerais ne plus crier sur tes ami.e.s, tes enfants, ton chien... 
+- Ou encore si tu as juste envie d'apprendre des trucs 
 
 ### Je me sens pas au niveau…
 
@@ -37,7 +39,7 @@ Tout le monde est invité à prendre une posture d'apprenant (les organisatrices
 ### C'est qui qui organise ?
 
 Aurélie et Julia. On a suivi les 3 modules d'introduction à la CNV d'Isabelle Desplat début 2017.
-On a tellement kiffé qu'on ont co-créé un groupe de pratique auto-géré avec d'autres Girafes.
+On a tellement kiffé qu'on a co-créé un groupe de pratique auto-géré avec d'autres Girafes.
 Et comme on continue de kiffer, on s'est dit que ce serait chouette de tester d'autres façon de pratiquer.
 Et voilà.
 
