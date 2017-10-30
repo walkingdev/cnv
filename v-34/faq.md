@@ -56,8 +56,6 @@ Au moins 4, maximum 10, probablement autour de 7.
 
 Ramènes ta bonne humeur, de l’eau, des noisettes et de quoi t’habiller confortablement pour marcher. Tu peux aussi amener des trucs (jeux, cartes...) qui pourraient servir de support à la pratique/compréhension de a CNV si tu as des idées.
 
-Pour le détail on a fait une page spécialement pour ça : [Prépare ton escapade](http://walkingdev.fr/#walkingdev/darktable/blob/master/v-34/prepare-ton-escapade.md)
-
 ### On marche beaucoup ?
 
 Une dizaine de kilomètres dans la journée.
