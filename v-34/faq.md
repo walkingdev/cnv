@@ -16,7 +16,7 @@ On profite des trajets pour débriefer sur ce qu'on vient de faire (ou pas).
 
 ### C'est quand et où ?
 
-La marche commencera **le mercredi 8 novembre 2017 à 9h** et se termine vers 18h30.  
+La marche commence **le mercredi 8 novembre 2017 à 9h** et se termine vers 18h30.  
 RDV à l'Extra Shot café (44 rue de l'Aiguillerie, 34000 Montpellier).
 
 ### C'est pour qui ?
@@ -86,4 +86,4 @@ Rien n'est décidé pour l'instant. Si tu manges sans gluten, que tu es végéta
 
 #### Et si j'ai une question ?
 
-Tu peux contacter [Julia](mailto:julia.barbelane@gmail.com). Elle se réjouis d'avance à te répondre !
+Tu peux contacter [Julia](mailto:julia.barbelane@gmail.com). Elle se réjouit d'avance à te répondre !
