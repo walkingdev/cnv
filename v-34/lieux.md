@@ -1,9 +1,14 @@
 ---
-title: Lieux utilisés lors de la session Darktable - V-34
+title: Lieux utilisés lors de la session Communication NonViolente (Montpellier)
 description: Liste des lieux conviviaux
 ---
 
-## Lieux utilisés lors de la session Darktable - V-34
+## Lieux utilisés 
+Extrashot : 44 rue de l'aiguillerie (gérand très sympa, plein de prise partout, wifi nikel, café très bon, bilingue, accepte les chiens)
+Les demoiselles de Montpellier : 2 rue Carbonnerie (lieu cosi, serveuses très sympas, sans gluten, wifi nikel, bon produits; acceptent les chiens) 
+Amazone café : 9 rue cauzit (gérants très sympa, plein de prises, acceptent les chiens)
+Repas : restaurant Oignon givré : 46 rue de l'Université (cantine, lieu atypique, très convivial, prix très abordables, 98% Végé, acceptent les chiens)
+
 
 ## Les lieux auxquels vous avez échappé
 
