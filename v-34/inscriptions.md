@@ -20,9 +20,9 @@ Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/cnv/blob/m
 Auraient aimés participer mais n'étaient pas dispo et souhaiteraient être recontacté pour le prochain : 
 * [Miguel Berrio](miguel.berrio.rodriguez@gmail.com)
 * [Thomas Wolf & Caroline Picton] (thomas.wolff@cpcoop.fr )
-* [Ienke Keijzer] 
+* [Ienke Keijzer] (grandisose@gmail.com) 
 * [Mireille Majac] (majac.m@laposte.net)
 * [Emmanuelle Millet] (emmanuelle.s.millet@gmail.com)
 * [Sabine Safi] (sabine.safi@gmail.com)
 * [Stéphane Langlois] (stephane.langlois@scopyleft.fr)
-* [Christophe Vincent] (cf post FB mur Julia)
+* [Christophe Vincent] (christophe.vincent@outlook.fr)
