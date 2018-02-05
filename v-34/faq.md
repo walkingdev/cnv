@@ -1,7 +1,6 @@
 ---
-title: CNV poils aux pieds
+title: FAQ Pour venir tâter la CNV (Communication Non Violente)
 description: découvrir/apprendre/pratiquer la Communication NonViolente
-image_url: https://github.com/walkingdev/darktable/blob/master/media/banner-darktable.png?raw=true
 ---
 
 # Viens tâter la CNV* (Communication NonViolente)
