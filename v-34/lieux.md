@@ -1,6 +1,6 @@
 ---
-title: Les lieux qu'on va visiter
-description: Des petits coins sympathiques et conviviaux
+title: Présentation des différents lieux
+description: Les lieux, leurs adresses et pourquoi on les a choisi
 ---
 
 ## Lieux utilisés 
