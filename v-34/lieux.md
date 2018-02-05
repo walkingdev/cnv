@@ -1,5 +1,5 @@
 ---
-title: Présentation des différents lieux
+title: Les lieux
 description: Les lieux, leurs adresses et pourquoi on les a choisi
 ---
 
