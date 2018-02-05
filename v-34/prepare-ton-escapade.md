@@ -1,21 +1,17 @@
 ---
-title: Prépare ton escapade Darktable V-34
+title: Prépare ton escapade !
 description: Une petite exploration ça se prépare, on t’a listé ce qui nous paraissait indispensable (ou pas).
-image_url: https://github.com/walkingdev/darktable/blob/master/media/banner-escapade.png?raw=true
 ---
 
-# Session Darktable - V-34
+# Session Communication Non Violente - Montpellier
 
 ## Ta préparation
 
-- Ton laptop
-- Chaussures confortable pour marcher
-- Noisettes
-- Bouteille d’eau
-- Couteau
-
-Pour faire du traitement photo, avoir un écran déjà calibré, c'est mieux.
-Sinon, c'est pas grave, on se débrouillera sans.
+- Chaussures confortables pour marcher  
+- De quoi te couvrir pour ne pas avoir froid entre les ateliers  
+- De quoi prendre des notes si le coeur t'en dit !  
+- tout autre chose que tu aimerais partager en lien avec le sujet (jeux, vidéos, livres...)
 
 ## Préparation des organisateurs
-* 1 trousse : marqueurs, post-it, crayons, papiers
+- des post-it  
+- des feutres  
