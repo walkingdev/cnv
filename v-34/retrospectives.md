@@ -1,7 +1,7 @@
 
 ---
 title: Retrospectives
-description: Revenons sur nos pas ! Les feed-back des participants
+description: Revenons sur nos pas ! Les feed-back des participant·e·s
 ---
 
 # Session du 8 novembre 2017 à Montpellier
