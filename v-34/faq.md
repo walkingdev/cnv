@@ -1,6 +1,6 @@
 ---
-title: FAQ Pour venir tâter la CNV (Communication Non Violente)
-description: découvrir/apprendre/pratiquer la Communication NonViolente
+title: FAQ
+description: Les infos pour tout comprendre comment ça marche !
 ---
 
 # Viens tâter la CNV* (Communication NonViolente)
