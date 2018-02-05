@@ -1,5 +1,5 @@
 ---
-title: FAQ
+title: FAQ - comment ça marche ?
 description: Les infos pour tout comprendre comment ça marche !
 ---
 
