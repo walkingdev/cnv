@@ -25,3 +25,5 @@ Celles et ceux qui auraient aimé en être !
 * [Sabine Safi] (sabine.safi@gmail.com)
 * [Stéphane Langlois] (stephane.langlois@scopyleft.fr)
 * [Christophe Vincent] (christophe.vincent@outlook.fr)
+* [Aude Chagnon] (aude.chagnon@gmail.com)
+
