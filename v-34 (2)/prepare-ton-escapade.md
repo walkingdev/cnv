@@ -12,6 +12,6 @@ description: Une petite exploration ça se prépare, on t’a listé ce qui nous
 - De quoi prendre des notes si le coeur t'en dit !  
 - tout autre chose que tu aimerais partager en lien avec le sujet (jeux, vidéos, livres...)
 
-## Préparation des organisateurs
+## Préparation des organisat·eur·rice·s
 - des post-it  
 - des feutres  
