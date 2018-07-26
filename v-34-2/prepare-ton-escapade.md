@@ -7,8 +7,7 @@ description: Une petite exploration ça se prépare, on t’a listé ce qui nous
 
 ## Ta préparation
 
-- Chaussures confortables pour marcher  
-- De quoi te couvrir pour ne pas avoir froid entre les ateliers  
+- Chaussures confortables pour marcher   
 - De quoi prendre des notes si le coeur t'en dit !  
 - tout autre chose que tu aimerais partager en lien avec le sujet (jeux, vidéos, livres...)
 
