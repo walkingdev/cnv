@@ -62,6 +62,7 @@ Si ça te semble beaucoup mais que tu as envie de faire partie de l'aventure, pa
 
 ### Je m'inscris où ?
 Il te suffit d'envoyer un mail à [Morgane](mailto:morgane.plat@gmail.com).
+Attention, si tu ne souhaites pas que ton nom et ton contact apparaissent [ici](https://github.com/walkingdev/cnv/blob/master/v-34-2/inscriptions.md) et soient lisibles et accessibles à tout un tas de gens, n'hésites pas à nous faire signe.
 
 ### Ça coûte combien cette petite escapade ?
 
