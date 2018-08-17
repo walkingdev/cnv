@@ -32,7 +32,7 @@ Y'a pas de pré-requis, que tu aies déjà pratiqué ou que ce soit la première
 ### Je me sens pas au niveau…
 
 T’inquiète pas, nous non plus ;)  
-Tout le monde est invité à prendre une posture d'apprenant (les organisatrices y compris), il n'y a pas d'expert·e·s mais des gens qui ont envie de découvrir et d'apprendre ensemble.
+Tout le monde est invité à prendre une posture d'apprenant·e (les organisatrices y compris), il n'y a pas d'expert·e·s mais des gens qui ont envie de découvrir et d'apprendre ensemble.
 
 ### C'est qui qui organise ?
 
