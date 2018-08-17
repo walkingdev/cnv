@@ -8,10 +8,11 @@ description: Celles et ceux qui en sont et celles et ceux qui aimeraient en êtr
 Pour t'inscrire au prochain, ajoute tes coordonnées en bas de la deuxième liste.
 Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/cnv/blob/master/v-34/faq.md)
 
-* *nom - prénom - moyens de contact *
+*nom - prénom - moyens de contact*
 
-* *Cunibil - Edouard - e.cunibil@gmail.com *
+- Cunibil - Edouard - e.cunibil@gmail.com 
+- Sabine Safi - sabine.safi@gmail.com
 
 Celles et ceux qui auraient aimé en être !
 
-* *Blayo - Philippe - prénom point nom à gmail point com *
+- Blayo - Philippe - prénom point nom à gmail point com
