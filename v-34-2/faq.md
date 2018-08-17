@@ -64,6 +64,9 @@ Si ça te semble beaucoup mais que tu as envie de faire partie de l'aventure, pa
 Il te suffit d'envoyer un mail à [Morgane](mailto:morgane.plat@gmail.com).
 Attention, si tu ne souhaites pas que ton nom et ton contact apparaissent [ici](https://github.com/walkingdev/cnv/blob/master/v-34-2/inscriptions.md) et soient lisibles et accessibles à tout un tas de gens, n'hésites pas à nous faire signe.
 
+### Je veux en être mais je suis pas dispo cette fois-ci...
+C'est OK ! Fais-nous signe et on te rajoutera à la liste de celles et ceux à contacter pour la prochaine session. Tu peux aussi directement faire un PR [ici](https://github.com/walkingdev/cnv/blob/master/v-34-2/inscriptions.md) et t'ajouter à la liste. 
+
 ### Ça coûte combien cette petite escapade ?
 
 50€. 
