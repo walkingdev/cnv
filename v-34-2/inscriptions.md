@@ -10,6 +10,7 @@ Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/cnv/blob/m
 
 * *nom - prénom - moyens de contact *
 
+* *Cunibil - Edouard - e.cunibil@gmail.com *
 
 Celles et ceux qui auraient aimé en être !
 
