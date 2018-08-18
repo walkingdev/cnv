@@ -12,7 +12,10 @@ Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/cnv/blob/m
 
 - Edouard Cunibil - e.cunibil@gmail.com 
 - Sabine Safi - sabine.safi@gmail.com
+- Cécilia Guérin - guerincecilia2904@gmail.com
+- Cécile Bauza - 
 
 Celles et ceux qui auraient aimé en être !
 
 - Philippe Blayo - prénom point nom à gmail point com
+- Stéphane Langlois - stephane.langlois@scopyleft.fr 
