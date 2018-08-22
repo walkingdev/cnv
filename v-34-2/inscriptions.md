@@ -20,3 +20,4 @@ Celles et ceux qui auraient aimé en être !
 
 - Philippe Blayo - prénom point nom à gmail point com
 - Stéphane Langlois - stephane.langlois@scopyleft.fr 
+- Estelle Landry - (slack Duchesses)
