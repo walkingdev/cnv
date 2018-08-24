@@ -4,6 +4,8 @@ description: Les lieux, leurs adresses et pourquoi on les a choisi
 ---
 
 ## Lieux auxquels on pense... 
+Les voir sur le plan : https://goo.gl/maps/mjtLbZC7hxu
+
 - **Extrashot** : 44 rue de l'aiguillerie (gérant très sympa, plein de prise partout, wifi nikel, café très bon, bilingue, accepte les chiens)  
 - **Les demoiselles de Montpellier** : 2 rue Carbonnerie (lieu cosi, serveuses très sympas, sans gluten, wifi nikel, bon produits; acceptent les chiens)  
 - **Amazone coffee Shop&Co** : 9 rue cauzit (gérants très sympas, plein de prises, délicieux cheese-cake, acceptent les chiens)
