@@ -15,9 +15,9 @@ Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/cnv/blob/m
 - Cécilia Guérin - guerincecilia2904@gmail.com
 - Cécile Bauza - cecile.bauza@gmail.com
 - Patricia Dollé - relations.plurielles@gmail.com
+- Philippe Blayo - prénom point nom à gmail point com
 
 Celles et ceux qui auraient aimé en être !
 
-- Philippe Blayo - prénom point nom à gmail point com
 - Stéphane Langlois - stephane.langlois@scopyleft.fr 
 - Estelle Landry - (slack Duchesses)
