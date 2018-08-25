@@ -17,6 +17,7 @@ Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/cnv/blob/m
 - Patricia Dollé - relations.plurielles@gmail.com
 - Stephen Ghommidh - stephen@nosmoking-production.com
 - Marie-Ange Chapel - marie-ange@nosmoking-production.com
+- David Bruant - bruant.d@gmail.com
 
 Celles et ceux qui auraient aimé en être !
 
