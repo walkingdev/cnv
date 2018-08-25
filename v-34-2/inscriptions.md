@@ -15,6 +15,8 @@ Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/cnv/blob/m
 - Cécilia Guérin - guerincecilia2904@gmail.com
 - Cécile Bauza - cecile.bauza@gmail.com
 - Patricia Dollé - relations.plurielles@gmail.com
+- Stephen Ghommidh - stephen@nosmoking-production.com
+- Marie-Ange Chapel - marie-ange@nosmoking-production.com
 
 Celles et ceux qui auraient aimé en être !
 
