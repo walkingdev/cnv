@@ -18,9 +18,9 @@ Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/cnv/blob/m
 - Stephen Ghommidh - stephen@nosmoking-production.com
 - Marie-Ange Chapel - marie-ange@nosmoking-production.com
 - David Bruant - bruant.d@gmail.com
+- Philippe Blayo - prénom point nom à gmail point com
 
 Celles et ceux qui auraient aimé en être !
 
-- Philippe Blayo - prénom point nom à gmail point com
 - Stéphane Langlois - stephane.langlois@scopyleft.fr 
 - Estelle Landry - (slack Duchesses)
