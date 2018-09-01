@@ -52,6 +52,8 @@ Au moins 4, maximum 10, probablement autour de 7.
 
 Ramènes ta bonne humeur, de l’eau, des noisettes et de quoi t’habiller confortablement pour marcher. Tu peux aussi amener des trucs (jeux, cartes, supports...) qui pourraient servir de support à la pratique/compréhension de la CNV si tu as des idées.
 
+Si vous souhaitez venir avec une liste pratique des sentiments, besoins et jugements masqués, vous pouvez imprimer celles de Diane Baran : http://www.dianebaran.fr/listes-sentiments-besoins/
+
 ### On marche beaucoup ?
 
 Une dizaine de kilomètres dans la journée.
