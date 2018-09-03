@@ -4,7 +4,6 @@ description: Liste des dépenses/recettes de la session et explication de l'util
 ---
 
 # Dépenses
-
 Café / viennoiseries à l'Extra Shot : 40 euros
 Apéro au Broc Café : 27 euros
 Déjeuner au Pré Vert : 163 euros
@@ -14,7 +13,6 @@ Apéro à Couleurs de Bières : 40 euros
 **Total dépenses = 330€**
 
 # Recettes
-
 2 inscriptions à 30 euros
 6 inscriptions à 50 euros
 
@@ -23,7 +21,6 @@ Apéro à Couleurs de Bières : 40 euros
 **TOTAL RESTANT = 30€**
 
 # Calcul du coût moyen  : 
-
 330 / 8 = 41,25€
 
 # Que devient l'argent qui reste ? 
