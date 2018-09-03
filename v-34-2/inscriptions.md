@@ -14,7 +14,6 @@ Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/cnv/blob/m
 - Sabine Safi - sabine.safi@gmail.com
 - Cécilia Guérin - guerincecilia2904@gmail.com
 - Cécile Bauza - cecile.bauza@gmail.com
-- Patricia Dollé - relations.plurielles@gmail.com
 - Stephen Ghommidh - stephen@nosmoking-production.com
 - Marie-Ange Chapel - marie-ange@nosmoking-production.com
 - David Bruant - bruant.d@gmail.com
@@ -24,3 +23,4 @@ Celles et ceux qui auraient aimé en être !
 
 - Stéphane Langlois - stephane.langlois@scopyleft.fr 
 - Estelle Landry - (slack Duchesses)
+- Patricia Dollé - relations.plurielles@gmail.com
