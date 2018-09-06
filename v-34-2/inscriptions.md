@@ -15,7 +15,7 @@ Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/cnv/blob/m
 - Cécilia Guérin - guerincecilia2904@gmail.com
 - Cécile Bauza - cecile.bauza@gmail.com
 - Stephen Ghommidh - stephen@nosmoking-production.com
-- Marie-Ange Chapel - marie-ange@nosmoking-production.com
+- Marie-Ange Chapel - nanange@hotmail.com
 - David Bruant - bruant.d@gmail.com
 - Philippe Blayo - prénom point nom à gmail point com
 
