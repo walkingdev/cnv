@@ -24,3 +24,4 @@ Celles et ceux qui auraient aimé en être !
 - Stéphane Langlois - stephane.langlois@scopyleft.fr 
 - Estelle Landry - (slack Duchesses)
 - Patricia Dollé - relations.plurielles@gmail.com
+- Ienke Keijzer - grandisose@gmail.com
