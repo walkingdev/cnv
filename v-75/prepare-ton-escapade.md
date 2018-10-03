@@ -7,7 +7,9 @@ description: Une petite exploration ça se prépare, on t’a listé ce qui nous
 
 ## Ta préparation
 
-- Chaussures confortables pour marcher   
+- Chaussures confortables et étanches pour marcher   
+- De quoi se protéger de la pluie (k-way, parapluie...)
+- Des vêtements chauds
 - De quoi prendre des notes si le coeur t'en dit !  
 - tout autre chose que tu aimerais partager en lien avec le sujet (jeux, vidéos, livres...)
 
