@@ -1,5 +1,5 @@
 ---
-title: Concrètement, de quoi on va parler ?
+title: Quelques idées d'ateliers...
 description: Un aperçu du contenu (ou pas !)
 ---
 
