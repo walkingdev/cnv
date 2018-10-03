@@ -61,10 +61,10 @@ Si ça te semble beaucoup mais que tu as envie de faire partie de l'aventure, pa
 
 ### Je m'inscris où ?
 Il te suffit d'envoyer un mail à [Julia](mailto:julia.barbelane@gmail.com).
-Attention, si tu ne souhaites pas que ton nom et ton contact apparaissent [ici](https://github.com/walkingdev/cnv/blob/master/v-75/inscriptions.md) et soient lisibles et accessibles à tout un tas de gens, n'hésites pas à nous faire signe.
+Attention, si tu ne souhaites pas que ton nom et ton contact apparaissent [ici](http://walkingdev.fr/#walkingdev/cnv/blob/master/v-75/inscriptions.md) et soient lisibles et accessibles à tout un tas de gens, n'hésites pas à nous faire signe.
 
 ### Je veux en être mais je suis pas dispo cette fois-ci...
-C'est OK ! Fais-nous signe et on te rajoutera à la liste de celles et ceux à contacter pour la prochaine session. Tu peux aussi directement faire un PR [ici](https://github.com/walkingdev/cnv/blob/master/v-75/inscriptions.md) et t'ajouter à la liste. 
+C'est OK ! Fais-nous signe et on te rajoutera à la liste de celles et ceux à contacter pour la prochaine session. Tu peux aussi directement faire un PR [ici](https://github.com/walkingdev/cnv/blob/master/v-75/inscriptions.md) et t'ajouter à la liste ou envoyer un mail à [Julia](julia.barbelane@gmail.com)
 
 ### Ça coûte combien cette petite escapade ?
 
