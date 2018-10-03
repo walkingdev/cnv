@@ -5,7 +5,7 @@ description: Celles et ceux qui en sont et celles et ceux qui aimeraient en êtr
 
 #### Inscriptions
 
-Pour t'inscrire au prochain, ajoute tes coordonnées en bas de la deuxième liste.
+Pour t'inscrire (ou être informé·e des prochains), ajoute tes coordonnées dans les listes ci-dessous ou envoie un mail à [Julia](julia.barbelane@gmail.com)
 Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/cnv/blob/master/v-34/faq.md)
 
 * prénom et nom - moyens de contact*
