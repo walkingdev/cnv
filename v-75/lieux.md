@@ -16,6 +16,10 @@ Le trajet qui se dessine par ici
 - **Café des arts** : 1 Place de la Contrescarpe - entouré de petites rues calmes, café assez classique, ci ce n'est que la place et le chemin pour le rejoindre sont très sympas.  
 -**Tea Lichou** : 7 Rue Broca - salon de thé au décors sympas. [+ d'infos](https://www.sortiraparis.com/hotel-restaurant/bar-cafes/articles/79556-tea-lichou-salon-de-the-regressif)
 
+## Les coins suggérés
+- En bas de l'avenue Daumesnil (vers le palais de la porte dorée)
+- **Mokonuts** - 5 rue saint Bernard - [+ d'infos](https://www.facebook.com/mokonuts/)
+
 
 ## Autres
 - **L'enchaînement des passages** à partir de la place du Palais Royal
