@@ -10,6 +10,7 @@ Pour t'inscrire (ou être informé·e des prochains), ajoute tes coordonnées da
 * prénom et nom - moyens de contact*
 
 - Christophe Robillard (christophe@robiweb.net)
+- Julie Quillé (quillejulie@gmail.com)
 
 Celles et ceux qui auraient aimé en être !
 
