@@ -3,6 +3,12 @@ title: FAQ - comment ça marche ?
 description: Les infos pour tout comprendre comment ça marche !
 ---
 
+# CETTE PAGE A ÉTÉ DUPLIQUÉE YAPALONGTEMPS
+# ELLE SERT DE BASE 
+# QUELQU'UN·E VA BOSSER DESSUS PUIS EFFACER CETTE PHRASE
+# MERCI
+
+
 # Viens tâter la CNV (Communication NonViolente)
 
 ## FAQ
