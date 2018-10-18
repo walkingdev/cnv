@@ -10,18 +10,9 @@ Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/cnv/blob/m
 
 * prénom et nom - moyens de contact*
 
-- Edouard Cunibil - e.cunibil@gmail.com 
-- Sabine Safi - sabine.safi@gmail.com
-- Cécilia Guérin - guerincecilia2904@gmail.com
-- Cécile Bauza - cecile.bauza@gmail.com
-- Stephen Ghommidh - stephen@nosmoking-production.com
-- Marie-Ange Chapel - nanange@hotmail.com
-- David Bruant - bruant.d@gmail.com
 - Philippe Blayo - prénom point nom à gmail point com
+- 
 
 Celles et ceux qui auraient aimé en être !
 
-- Stéphane Langlois - stephane.langlois@scopyleft.fr 
-- Estelle Landry - (slack Duchesses)
-- Patricia Dollé - relations.plurielles@gmail.com
-- Ienke Keijzer - grandisose@gmail.com
+- 
