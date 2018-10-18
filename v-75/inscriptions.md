@@ -15,6 +15,7 @@ Pour t'inscrire (ou être informé·e des prochains), ajoute tes coordonnées da
 - Bruno Thomas
 - 
 
+
 Celles et ceux qui auraient aimé en être !
 
 - 
