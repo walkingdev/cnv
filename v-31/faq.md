@@ -20,8 +20,8 @@ On profite des trajets pour débriefer sur ce qu'on vient de faire (ou pas).
 
 ### C'est quand et où ?
 
-La marche commence **le samedi 1 septembre 2018 à 9h30** et se termine vers 19h30.  
-RDV à l'Amazone Coffee Shop&Co (9 rue cauzit, 34000 Montpellier).
+La marche commence **le vendredi 2 novembre 2018 à 9h30** et se termine vers 18h30.
+Le RDV sera indiqué aux inscrit·e·s l'avant-veille.
 
 ### C'est pour qui ?
 
@@ -42,7 +42,7 @@ Tout le monde est invité à prendre une posture d'apprenant·e (les organisatri
 
 ### C'est qui qui organise ?
 
-Morgane et Julia. Y'en a une qui pratique depuis un petit moment, l'autre un peu moins.
+Maïtané et Philippe.
 On l'utilise, on voit que ça fait du bien, du coup on a eu envie de créer une occasion de le pratiquer et de le partager.
 Et voilà.
 
@@ -70,10 +70,10 @@ Si ça te semble beaucoup mais que tu as envie de faire partie de l'aventure, pa
 
 ### Je m'inscris où ?
 Il te suffit d'envoyer un mail à [Morgane](mailto:morgane.plat@gmail.com).
-Attention, si tu ne souhaites pas que ton nom et ton contact apparaissent [ici](https://github.com/walkingdev/cnv/blob/master/v-34-2/inscriptions.md) et soient lisibles et accessibles à tout un tas de gens, n'hésites pas à nous faire signe.
+Attention, si tu ne souhaites pas que ton nom et ton contact apparaissent [ici](https://github.com/walkingdev/cnv/blob/master/v-31/inscriptions.md) et soient lisibles et accessibles à tout un tas de gens, n'hésites pas à nous faire signe.
 
 ### Je veux en être mais je suis pas dispo cette fois-ci...
-C'est OK ! Fais-nous signe et on te rajoutera à la liste de celles et ceux à contacter pour la prochaine session. Tu peux aussi directement faire un PR [ici](https://github.com/walkingdev/cnv/blob/master/v-34-2/inscriptions.md) et t'ajouter à la liste. 
+C'est OK ! Fais-nous signe et on te rajoutera à la liste de celles et ceux à contacter pour la prochaine session. Tu peux aussi directement faire un PR [ici](https://github.com/walkingdev/cnv/blob/master/v-31/inscriptions.md) et t'ajouter à la liste. 
 
 ### Ça coûte combien cette petite escapade ?
 
@@ -81,7 +81,7 @@ C'est OK ! Fais-nous signe et on te rajoutera à la liste de celles et ceux à c
 
 ### Vous faites quoi des sous ?
 
-On paye toutes les collations (cafés, thé, repas du midi, goûter...) de la journée. Les organisatrices ne sont pas rémunérées (mais leur cafés sont offerts :-)). Si tu veux plus d'infos [par ici](http://walkingdev.fr/#walkingdev/cnv/blob/master/v-34/budget.md) tu trouveras le budget de la dernière session. 
+On paye toutes les collations (cafés, thé, repas du midi, goûter...) de la journée. Les organisatrices ne sont pas rémunérées (mais leur cafés sont offerts :-)). Si tu veux plus d'infos [par ici](http://walkingdev.fr/#walkingdev/cnv/blob/master/v-31/budget.md) tu trouveras le budget de la dernière session. 
 
 ### Et si c’est trop cher pour moi ?
 
