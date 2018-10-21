@@ -19,10 +19,10 @@ On vous fera signe dès qu'on aura choisi le lieu de rdv.
 
 ### C'est pour qui ?
 
-Y'a pas de pré-requis, que tu aies déjà pratiqué ou que ce soit la première fois que tu en entendes parler, tu es le.a bienvenu.e si :
+Y'a pas de pré-requis, que tu aies déjà pratiqué ou que ce soit la première fois que tu en entendes parler, tu es le·a bienvenu·e si :
 - tu aspires à prendre plus soin de tes relations
 - tu as envie de pratiquer (la CNV c'est comme l'anglais si on le parle pas, on le perd :-))
-- tu es perplexe et/ou curieu.x.se
+- tu es perplexe et/ou curieu·x·se
 - tu la pratiques depuis longtemps et aspires à partager quelques clés
 - tu n'comprends pas toujours ces émotions qui s'agitent à l'intérieur de toi 
 - tu adorerais moins crier sur tes ami.e.s, tes enfants, ton chien... 
