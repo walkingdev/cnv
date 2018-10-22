@@ -70,7 +70,7 @@ C'est OK ! Fais-nous signe et on te rajoutera à la liste de celles et ceux à c
 
 ### Ça coûte combien cette petite escapade ?
 
-50€. 
+**50€**. 
 
 ### Vous faites quoi des sous ?
 
