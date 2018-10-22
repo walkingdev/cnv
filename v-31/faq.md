@@ -3,12 +3,6 @@ title: FAQ - comment ça marche ?
 description: Les infos pour tout comprendre comment ça marche !
 ---
 
-# CETTE PAGE A ÉTÉ DUPLIQUÉE YAPALONGTEMPS
-# ELLE SERT DE BASE 
-# QUELQU'UN·E VA BOSSER DESSUS PUIS EFFACER CETTE PHRASE
-# MERCI
-
-
 # Viens tâter la CNV (Communication NonViolente)
 
 ## FAQ
@@ -20,13 +14,12 @@ On profite des trajets pour débriefer sur ce qu'on vient de faire (ou pas).
 
 ### C'est quand et où ?
 
-La marche commence **le vendredi 2 novembre 2018 à 9h30** et se termine vers 18h30.
+La marche commence **le vendredi 2 novembre 2018 à 9h30** et se termine vers 18h00.
 Le RDV sera indiqué aux inscrit·e·s l'avant-veille.
 
 ### C'est pour qui ?
 
 Y'a pas de pré-requis, que tu aies déjà pratiqué ou que ce soit la première fois que tu en entendes parler, tu es le.a bienvenu.e si :
-- tu as envie de déconditionner tes oreilles et voir les sens cachés dans nos conversations
 - tu aspires à prendre plus soin de tes relations
 - tu as envie de pratiquer (la CNV c'est comme l'anglais si on le parle pas, on le perd :-))
 - tu es perplexe et/ou curieu.x.se
@@ -43,7 +36,7 @@ Tout le monde est invité à prendre une posture d'apprenant·e (les organisatri
 ### C'est qui qui organise ?
 
 Maïtané et Philippe.
-On l'utilise, on voit que ça fait du bien, du coup on a eu envie de créer une occasion de le pratiquer et de le partager.
+On voit que ça fait du bien, du coup on a eu envie de créer une occasion de le pratiquer et d'en transmettre l'enthousiasme.
 Et voilà.
 
 ### Mais c'est pas une formation ?
@@ -69,7 +62,7 @@ On a calculé ça en se disant qu’on allait marcher 4 à 6 fois 20 minutes dan
 Si ça te semble beaucoup mais que tu as envie de faire partie de l'aventure, parle-nous en, on trouvera un truc.
 
 ### Je m'inscris où ?
-Il te suffit d'envoyer un mail à [Morgane](mailto:morgane.plat@gmail.com).
+Il te suffit d'envoyer un mail à [Maïtané](mailto:perso@maiwann.net) ou Philippe (prénom point blayo à gmail.com).
 Attention, si tu ne souhaites pas que ton nom et ton contact apparaissent [ici](https://github.com/walkingdev/cnv/blob/master/v-31/inscriptions.md) et soient lisibles et accessibles à tout un tas de gens, n'hésites pas à nous faire signe.
 
 ### Je veux en être mais je suis pas dispo cette fois-ci...
@@ -81,7 +74,7 @@ C'est OK ! Fais-nous signe et on te rajoutera à la liste de celles et ceux à c
 
 ### Vous faites quoi des sous ?
 
-On paye toutes les collations (cafés, thé, repas du midi, goûter...) de la journée. Les organisatrices ne sont pas rémunérées (mais leur cafés sont offerts :-)). Si tu veux plus d'infos [par ici](http://walkingdev.fr/#walkingdev/cnv/blob/master/v-31/budget.md) tu trouveras le budget de la dernière session. 
+On paye toutes les collations (cafés, thé, repas du midi, goûter...) de la journée. Les organisatrices ne sont pas rémunérées (mais leur cafés sont offerts :-)). Si tu veux plus d'infos [par ici](http://walkingdev.fr/#walkingdev/cnv/blob/master/v-34-2/budget.md) tu trouveras le budget de la dernière session de Montpellier. 
 
 ### Et si c’est trop cher pour moi ?
 
@@ -93,4 +86,4 @@ Rien n'est décidé pour l'instant. Si tu manges sans gluten, que tu es végéta
 
 #### Et si j'ai une question ?
 
-Tu peux contacter [Julia](mailto:julia.barbelane@gmail.com). Elle se réjouit d'avance à te répondre !
+Tu peux contacter [Maïtané](mailto:perso@maiwann.net) ou Philippe (prénom point blayo à gmail.com). Elle/il se réjouit d'avance à te répondre !
