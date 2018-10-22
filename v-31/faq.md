@@ -19,19 +19,19 @@ Le RDV sera indiqué aux inscrit·e·s l'avant-veille.
 
 ### C'est pour qui ?
 
-Y'a pas de pré-requis, que tu aies déjà pratiqué ou que ce soit la première fois que tu en entendes parler, tu es le.a bienvenu.e si :
+Y'a pas de pré-requis, que tu aies déjà pratiqué ou que ce soit la première fois que tu en entendes parler, tu es le·a bienvenu·e si :
 - tu aspires à prendre plus soin de tes relations
 - tu as envie de pratiquer (la CNV c'est comme l'anglais si on le parle pas, on le perd :-))
-- tu es perplexe et/ou curieu.x.se
+- tu es perplexe et/ou curieu·x·se
 - tu la pratiques depuis longtemps et aspires à partager quelques clés
 - tu n'comprends pas toujours ces émotions qui s'agitent à l'intérieur de toi 
-- tu adorerais moins crier sur tes ami.e.s, tes enfants, ton chien... 
+- tu adorerais moins crier sur tes ami·e·s, tes enfants, ton chien... 
 - Ou encore si tu as juste envie d'apprendre des trucs 
 
 ### Je me sens pas au niveau…
 
 T’inquiète pas, nous non plus ;)  
-Tout le monde est invité à prendre une posture d'apprenant·e (les organisatrices y compris), il n'y a pas d'expert·e·s mais des gens qui ont envie de découvrir et d'apprendre ensemble.
+Tout le monde est invité à prendre une posture d'apprenant·e (les organisat·eurs·rices y compris), il n'y a pas d'expert·e·s mais des gens qui ont envie de découvrir et d'apprendre ensemble.
 
 ### C'est qui qui organise ?
 
@@ -74,7 +74,7 @@ C'est OK ! Fais-nous signe et on te rajoutera à la liste de celles et ceux à c
 
 ### Vous faites quoi des sous ?
 
-On paye toutes les collations (cafés, thé, repas du midi, goûter...) de la journée. Les organisatrices ne sont pas rémunérées (mais leur cafés sont offerts :-)). Si tu veux plus d'infos [par ici](http://walkingdev.fr/#walkingdev/cnv/blob/master/v-34-2/budget.md) tu trouveras le budget de la dernière session de Montpellier. 
+On paye toutes les collations (cafés, thé, repas du midi, goûter...) de la journée. Les organisat·eurs·rices ne sont pas rémunéré·e·s (mais leur cafés sont offerts :-)). Si tu veux plus d'infos [par ici](http://walkingdev.fr/#walkingdev/cnv/blob/master/v-34-2/budget.md) tu trouveras le budget de la dernière session de Montpellier. 
 
 ### Et si c’est trop cher pour moi ?
 
