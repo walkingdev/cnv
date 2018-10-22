@@ -12,6 +12,7 @@ Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/cnv/blob/m
 
 - Philippe Blayo - prénom point nom à gmail point com
 - Maïtané Lenoir - perso@maiwann.net
+- Thomas Sontheimer - @tom_sont
 
 Celles et ceux qui auraient aimé en être !
 
