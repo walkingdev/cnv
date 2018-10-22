@@ -11,7 +11,9 @@ description: Liste des dépenses/recettes de la session et explication de l'util
 # Recettes
 
 
-**Total recettes**  
+**Total recettes**
+
+~ nombre d'inscrits * 50 Euros
 
 **TOTAL RESTANT**
 
