@@ -11,7 +11,7 @@ Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/cnv/blob/m
 * prénom et nom - moyens de contact*
 
 - Philippe Blayo - prénom point nom à gmail point com
-- 
+- Maïtané Lenoir - perso@maiwann.net
 
 Celles et ceux qui auraient aimé en être !
 
