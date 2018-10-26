@@ -11,7 +11,7 @@ Pour t'inscrire (ou être informé·e des prochains), ajoute tes coordonnées da
 
 - Christophe Robillard (christophe@robiweb.net)
 - Julie Quillé (quillejulie@gmail.com)
-- Soline Ledésert (l'après-midi)
+- Soline Ledésert (à partir du déjeuner)
 - Bruno Thomas
 - 
 
