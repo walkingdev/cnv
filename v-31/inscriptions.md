@@ -13,7 +13,7 @@ Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/cnv/blob/m
 - Philippe Blayo - @pblayo prénom point nom à gmail point com
 - Maïtané Lenoir - perso@maiwann.net
 - Thomas Sontheimer - @tom_sont
-- Julien Pradet - @JulienPradet
+- Julien Pradet - prénom point nom @gmail.com
 - Aurélie Lorgeoux
 
 Celles et ceux qui auraient aimé en être !
