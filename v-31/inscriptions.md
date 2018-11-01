@@ -18,4 +18,5 @@ Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/cnv/blob/m
 
 Celles et ceux qui auraient aimé en être !
 
-- 
+- Perrine Letellier - @PerLith@mastodon.xyz
+- Noé Gaumont - @ngaumont@social.wxcafe.net
