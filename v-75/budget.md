@@ -4,28 +4,28 @@ description: Liste des dépenses/recettes de la session et explication de l'util
 ---
 
 # Dépenses
-Café / viennoiseries à l'Extra Shot : 40 euros  
-Apéro au Broc Café : 27 euros  
-Déjeuner au Pré Vert : 163 euros  
-Café / goûter aux Demoiselles de Montpellier : 60 euros  
-Apéro à Couleurs de Bières : 40 euros  
+Cafés et douceurs Chez Mel.& Mich : 26,70 euros  
+Déjeuner au restaurant de la Grande Mosquée de Paris : 122 euros  
+Patisseries en terrasse de la Grande Mosquée de Paris : 26 euros  
+Boissons et douceurs au Petit Gaston : 64,70 euros  
+Boissons au café Les Patios : 29,20 euros  
 
-**Total dépenses = 330€**
+**Total dépenses = 268,60€**
 
 # Recettes
-2 inscriptions à 30 euros  
-6 inscriptions à 50 euros
+1 inscriptions à 40 euros  
+5 inscriptions à 60 euros
 
-**Total recettes = 360€**  
+**Total recettes = 340€**  
 
-**TOTAL RESTANT = 30€**
+**TOTAL RESTANT = 71,4€**
 
 # Calcul du coût moyen  : 
-330 / 8 = 41,25€
+268,60 / 5,7 = 47,12€
 
 # Que devient l'argent qui reste ? 
 
-Les 30 euros restants permettront :
+Les 71,4 Euros restants permettront :
 - soit d'acheter du matos - post-it, feutres - (pour les deux premières sessions, on a utilisé celui des facilitatrices)
 - soit de payer une partie du PAF d'un·e futur·e participant·e.
 - et pourquoi pas d'imprimer des fiches petit format à emporter avec la liste des sentiments / besoins 
