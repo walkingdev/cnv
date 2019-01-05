@@ -35,4 +35,5 @@ description: Liste des dépenses/recettes de la session et explication de l'util
 
 # Que devient l'argent qui reste ? 
 
-Il ne reste pas d'argent, le déficit de 10,65 Euros a été assumé par les deux personnes organisatrices.
+Il ne reste pas d'argent. A l'annonce que le déficit de 10,65 Euros serait assumé par les deux personnes organisatrices, deux participant·e·s ont souhaité verser un total de 20 Euros pour couvrir ce déficit et une partie des frais d'organisation.
+
